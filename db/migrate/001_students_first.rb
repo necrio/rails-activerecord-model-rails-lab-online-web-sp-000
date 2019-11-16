@@ -1,1 +1,1 @@
-class CreateStudents < 
+class CreateStudents < Active
