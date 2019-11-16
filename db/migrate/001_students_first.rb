@@ -1,1 +1,1 @@
-class Create
+class CreateStudents < 
