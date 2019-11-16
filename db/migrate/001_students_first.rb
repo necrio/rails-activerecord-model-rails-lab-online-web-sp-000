@@ -1,1 +1,1 @@
-class CreateStudents < Active
+class CreateStudents < ActiveRecord::
